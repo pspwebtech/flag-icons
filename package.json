@@ -1,0 +1,15 @@
+{
+  "name": "@pspwebtech/flag-icons",
+  "version": "1.0.0",
+  "description": "Flag-icons is a library with svg flags",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pspwebtech/flag-icons.git"
+  },
+  "author": "Alexei Sobolenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pspwebtech/flag-icons/issues"
+  },
+  "homepage": "https://github.com/pspwebtech/flag-icons#readme"
+}
